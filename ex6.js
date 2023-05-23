@@ -1,5 +1,0 @@
-function fizzbuzz() {
-    // TODO
-}
-
-fizzbuzz()
